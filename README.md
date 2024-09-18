@@ -8,6 +8,7 @@
     <img src="./design/mobile-menu.jpg" alt="Photo 3" width="300">
   </div>
 </div>
+
 ## Hello! 👋
 Welcome to Cindy's front-end coding challenge. I randomly tackle different projects on Frontend Mentor. Thank you for watching.
 
